@@ -1,0 +1,10 @@
+opencv-python
+imutils
+keras
+tensorflow
+cmake
+dlib
+pyaudio
+praat-parselmouth
+matplotlib
+sklearn

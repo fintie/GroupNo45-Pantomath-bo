@@ -8,7 +8,7 @@ import matplotlib.pyplot as plt
 import re
 import json
 import os
-from sklearn.externals import joblib
+import joblib
 
 def getLabel(filename):
 
